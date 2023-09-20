@@ -1,0 +1,12 @@
+{
+    "workbench.colorTheme": "Tokyo Night",
+    "editor.semanticHighlighting.enabled": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "Hack Nerd Font",
+    "editor.lineHeight": 16,
+    "editor.fontSize": 13,
+    "editor.wordWrap": "on",
+    "explorer.confirmDragAndDrop": false,
+    "files.autoSave": "afterDelay",
+    "window.zoomLevel": 1,
+}
