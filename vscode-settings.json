@@ -9,4 +9,28 @@
     "explorer.confirmDragAndDrop": false,
     "files.autoSave": "afterDelay",
     "window.zoomLevel": 1,
+    "editor.tokenColorCustomizations": {
+          "textMateRules": [
+            {
+              "scope": [
+                "entity.name.tag.jsx",
+                "entity.name.tag.tsx"
+              ],
+              "settings": {
+                "foreground": "#ea00ff" // Substitua isso pela cor desejada em formato hexadecimal
+              }
+            },
+            {
+              "scope": [
+                "keyword.control.import.js",
+                "keyword.control.from.js",
+                "keyword.control.export.js",
+                "keyword.control.default.js",
+              ],
+              "settings": {
+                "foreground": "#7aa2f7" // Substitua isso pela cor desejada em formato hexadecimal
+              }
+            }
+          ]
+        }
 }
